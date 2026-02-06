@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Kedeins-wq.
 
-<!--
-**kedeins-wq/KEDEINS-WQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *Data Analyst | Excel • SQL • Power BI • Python*
 
-Here are some ideas to get you started:
+I am a data analyst focused on transforming raw data into clear, actionable insights.  
+This GitHub profile showcases my learning journey, hands-on projects, and practical experience using modern data analysis tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Tools
+
+- *Data Analysis:* Data cleaning, transformation, and exploratory analysis  
+- *Excel:* Pivot Tables, Power Query, formulas, dashboards  
+- *SQL:* Data querying, JOINs, aggregations, subqueries  
+- *Power BI:* Data modeling, DAX, interactive dashboards  
+- *Python:* Pandas, NumPy, Matplotlib, Seaborn  
+
+---
+
+## 📊 Projects
+
+Some of the projects available on this GitHub include:
+
+- *Sales Performance Dashboard (Power BI)*  
+  Interactive dashboard…
